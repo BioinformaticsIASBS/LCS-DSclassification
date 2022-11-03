@@ -13,7 +13,8 @@ To run the code in windows, do the following instruction:
 2. open cmd in the corresponding folder
 3. type the following command in cmd: python UB-HH.py <dataset name> <beam width>
 
-An example: python UB-HH.py ACO-Rat 200
+An example: python UB-HH.py ACO-Rat 200 
+  
 note: When writing the name of the dataset, make sure that it exactly matches the above names.
 
 Pleas, feel free to contact us if you have any questions about the paper or implementation.
