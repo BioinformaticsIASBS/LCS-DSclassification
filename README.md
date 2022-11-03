@@ -1,4 +1,4 @@
-# Title: Longest Common Substring in Longest Common Subsequence's Solution Service: A Novel Hyper-Heuristic
+# Longest Common Substring in Longest Common Subsequence's Solution Service: A Novel Hyper-Heuristic
 
 Authors: Alireza Abdi, Masih Hajsaeedi, Mohsen Hooshmand
 
