@@ -5,6 +5,7 @@ Authors: Alireza Abdi, Masih Hajsaeedi, Mohsen Hooshmand
 This code is written with python 3.8 for the paper with the above title. This version returns the LCS's length, not the LCS. 
 
 The dataset contains six benchmarks, ACO-Rat, ACO-Random, ACO-Virus, ES, BB, and SARS-CoV-2.
+These datasets are introduced in their original papers, and we provide them here.
 
 To run the code in windows, do the following instruction:
 
