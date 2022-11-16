@@ -11,7 +11,7 @@ To run the code in windows, do the following instruction:
 
 1. extract datasets and code in the same folder
 2. open cmd in the corresponding folder
-3. type the following command in cmd: python UB-HH.py <dataset name> <beam width>
+3. type the following command in cmd: python UB-HH.py "dataset name" "beam width"
 
 An example: python UB-HH.py ACO-Rat 200 
   
