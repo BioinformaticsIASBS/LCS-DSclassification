@@ -1,4 +1,4 @@
-#Implementation of our competitors will be available on December 11th.
+#Implementation of our competitors will be available on December 17th.
 
 # Longest Common Substring in Longest Common Subsequence's Solution Service: A Novel Hyper-Heuristic
 
