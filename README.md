@@ -19,6 +19,8 @@ Note: When writing the name of the dataset, make sure that it exactly matches th
 
 Pleas, feel free to contact us if you have any questions about the paper or implementation.
 
-The GMPSUM method (our competitor) code that we implemented is also available here, and its running instruction is like the UB-HH.
+The GMPSUM method (our competitor) code that we implemented is also available here, and its running instruction is like the UB-HH. Except for the lambda parameter that the user should specify.
+
+An example: python GMPSUM.py ES 200 1.0
 
 Email: alirezaabdi@iasbs.ac.ir
