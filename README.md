@@ -24,3 +24,16 @@ The GMPSUM method (our competitor) code that we implemented is also available he
 An example: python GMPSUM.py ES 200 1.0
 
 Email: alirezaabdi@iasbs.ac.ir
+
+### citation
+
+```bash
+@article{abdi2023longest,
+  title={Longest common substring in Longest Common Subsequence’s solution service: A novel hyper-heuristic},
+  author={Abdi, Alireza and Hajsaeedi, Masih and Hooshmand, Mohsen},
+  journal={Computational Biology and Chemistry},
+  pages={107882},
+  year={2023},
+  publisher={Elsevier}
+}
+```
